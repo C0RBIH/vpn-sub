@@ -1,13 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-13 20:11:59
-
-# profile-title: White List | Mobile | Shadowsocks, VLESS | 
-# profile-update-interval: 2
-# Date/Time: 2026-04-13 19:59:02
-# Количество: 57
-# For more info and VPN-configs - visit: https://github.com/Kirillo4ka/eavevpn-configs
+# Дата и время обновления: 2026-04-13 20:12:36
 
 vless://210a6a43-bff6-5bc6-a1ef-67ba9958cebb@185.177.238.122:443?encryption=none&type=xhttp&security=reality&host=www.kinopoisk.ru&path=%2FsxKkFzZYxD4&mode=auto&extra=null&fp=firefox&sni=www.kinopoisk.ru&pbk=UNTmfdXuKdlBYzHVrD0RvwT-ZfuA_KLKNMwqAWquV3E&sid=295085d98f#🇦🇱 Албания | White List | Fast | | #0001
 vless://210a6a43-bff6-5bc6-a1ef-67ba9958cebb@185.177.238.122:443?encryption=none&type=xhttp&security=reality&host=www.kinopoisk.ru&path=/sxKkFzZYxD4&mode=auto&extra=null&fp=firefox&sni=www.kinopoisk.ru&pbk=UNTmfdXuKdlBYzHVrD0RvwT-ZfuA_KLKNMwqAWquV3E&sid=295085d98f&spx=#🇦🇱 Албания | White List | Fast | | #0002
@@ -64,5 +58,3 @@ vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&securit
 vless://09258981-6737-4e6f-959c-467c549de3b3@158.160.250.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇨🇦 Канада | White List | Fast | | #0053
 vless://24fcafef-c497-4428-a90d-93c3a8b5a9b7@158.160.250.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇨🇦 Канада | White List | Fast | | #0054
 vless://a3297bcd-e041-4750-a4fb-dea234cae387@158.160.250.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇨🇦 Канада | White List | Fast | | #0055
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@89.169.6.69:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇨🇦 Канада | White List | Fast | | #0056
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@212.192.215.229:8443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#🇨🇦 Канада | White List | Fast | | #0057
