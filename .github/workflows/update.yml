@@ -1,8 +1,8 @@
-name: Update subscription - remove EaveVPN
+name: Update subscription - custom profile title & remove EaveVPN
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # каждые 2 часа
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,14 +18,16 @@ jobs:
         run: |
           curl -L -o original.txt "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 
-      - name: Remove 'EaveVPN' from server names and add profile title
+      - name: Process configs
         run: |
-          # Удаляем слово EaveVPN (с пробелами и без) из каждой строки
-          # Также удаляем возможные лишние пробелы после удаления
+          # Удаляем слово EaveVPN из строк (с возможными пробелами и дефисами)
           sed -E 's/EaveVPN\s*//g' original.txt | sed -E 's/\s+/ /g' > cleaned.txt
           
-          # Добавляем в начало файла строку с названием профиля (если Happ поддерживает)
+          # Создаём новый файл с нужными заголовками
           echo "# 🪖MSC VPN🗽" > subscription.txt
+          echo "# profile-title: 🪖MSC VPN🗽" >> subscription.txt
+          echo "# profile-update-interval: 2" >> subscription.txt
+          echo "# Дата и время обновления: $(date '+%Y-%m-%d %H:%M:%S')" >> subscription.txt
           echo "" >> subscription.txt
           cat cleaned.txt >> subscription.txt
 
@@ -35,5 +37,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: gh-pages
+          keep_files: false
+          commit_message: "Auto-update: profile title 🪖MSC VPN🗽, removed EaveVPN"          publish_branch: gh-pages
           keep_files: false
           commit_message: "Auto-update: removed EaveVPN, added profile name"
