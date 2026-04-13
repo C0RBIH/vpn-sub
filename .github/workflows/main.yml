@@ -2,35 +2,32 @@ name: Update VPN subscription
 
 on:
   schedule:
-    # Запуск каждый час (оригинал обновляется каждые 2 часа, но для надёжности – чаще)
-    - cron: '0 * * * *'
-  workflow_dispatch:  # позволяет запустить вручную из интерфейса GitHub
+    - cron: '0 */2 * * *'   # каждые 2 часа
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # нужно для коммита изменений в ветку gh-pages
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download original configs
+      - name: Download original
         run: |
           curl -L -o original.txt "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 
-      - name: Replace remark with 🪖MSC VPN🗽
+      - name: Replace remark
         run: |
-          # Заменяем всё, что идёт после #, на наше название (эмодзи сохранятся)
+          # Заменяем всё после # на #🪖MSC VPN🗽
           sed 's/#.*$/#🪖MSC VPN🗽/g' original.txt > subscription.txt
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: gh-pages
           keep_files: false
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Auto-update subscription with new name'
+          commit_message: "Auto-update subscription"
