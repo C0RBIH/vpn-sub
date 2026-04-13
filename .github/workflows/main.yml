@@ -1,4 +1,4 @@
-name: Update subscription - custom profile title & remove EaveVPN
+name: Update subscription - clean old headers & remove EaveVPN
 
 on:
   schedule:
@@ -18,12 +18,16 @@ jobs:
         run: |
           curl -L -o original.txt "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
 
-      - name: Process configs
+      - name: Remove old headers and EaveVPN
         run: |
-          # Удаляем слово EaveVPN из строк (с возможными пробелами и дефисами)
-          sed -E 's/EaveVPN\s*//g' original.txt | sed -E 's/\s+/ /g' > cleaned.txt
+          # Удаляем все строки, начинающиеся с '#' (комментарии и заголовки)
+          # Оставляем только строки, которые начинаются с vless://
+          grep '^vless://' original.txt > filtered.txt
           
-          # Создаём новый файл с нужными заголовками
+          # Удаляем слово EaveVPN из оставшихся строк
+          sed -E 's/EaveVPN\s*//g' filtered.txt | sed -E 's/\s+/ /g' > cleaned.txt
+          
+          # Создаём новый файл с правильными заголовками
           echo "# 🪖MSC VPN🗽" > subscription.txt
           echo "# profile-title: 🪖MSC VPN🗽" >> subscription.txt
           echo "# profile-update-interval: 2" >> subscription.txt
@@ -38,4 +42,4 @@ jobs:
           publish_dir: ./
           publish_branch: gh-pages
           keep_files: false
-          commit_message: "Auto-update: profile title 🪖MSC VPN🗽, removed EaveVPN"
+          commit_message: "Clean old headers, set profile title, remove EaveVPN"
