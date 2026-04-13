@@ -1,8 +1,8 @@
-name: Mirror original configs
+name: Update VPN subscription with profile name
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # каждые 2 часа
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download original file
+      - name: Download original configs
         run: |
-          curl -L -o subscription.txt "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+          curl -L -o original.txt "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+
+      - name: Add profile name at the top
+        run: |
+          # Создаём новый файл: сначала строка с названием профиля, потом оригинальное содержимое
+          echo "# 🪖MSC VPN🗽" > subscription.txt
+          echo "" >> subscription.txt
+          cat original.txt >> subscription.txt
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
@@ -25,4 +32,4 @@ jobs:
           publish_dir: ./
           publish_branch: gh-pages
           keep_files: false
-          commit_message: "Mirror original configs (every 2h)"
+          commit_message: "Auto-update with profile name"
