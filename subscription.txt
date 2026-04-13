@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-13 20:09:51
+# Дата и время обновления: 2026-04-13 20:11:59
 
 # profile-title: White List | Mobile | Shadowsocks, VLESS | 
 # profile-update-interval: 2
