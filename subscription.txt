@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-14 17:17:56
+# Дата и время обновления: 2026-04-14 17:18:07
 
 vless://TMG_b059bf287f4@185.177.238.106:443?type=xhttp&security=reality&encryption=none&fp=firefox&pbk=HpEjiHEFCqlIkJfhtdMlMBerod8y3RePnMX0AkLqkHc&sid=7001beb6e5140383&sni=www.tradingview.com&path=/jBKezBZjwJBFVAlyF&host=tradingview.com#🇦🇱 Албания | White List | Fast | | #0001
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%25252525252525252525252525252F1.1&allowInsecure=1#🇪🇪 Эстония | White List | Fast | | #0002
