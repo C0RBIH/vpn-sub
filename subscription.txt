@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-14 19:25:21
+# Дата и время обновления: 2026-04-14 19:26:40
 
 vless://210a6a43-bff6-5bc6-a1ef-67ba9958cebb@185.177.238.122:443?encryption=none&type=xhttp&security=reality&host=www.kinopoisk.ru&path=/sxKkFzZYxD4&mode=auto&extra=null&fp=chrome&sni=www.kinopoisk.ru&pbk=UNTmfdXuKdlBYzHVrD0RvwT-ZfuA_KLKNMwqAWquV3E&sid=295085d98f#🇦🇱 Албания | White List | Fast | | #0001
 vless://210a6a43-bff6-5bc6-a1ef-67ba9958cebb@185.177.238.122:443?encryption=none&type=xhttp&security=reality&path=%2FsxKkFzZYxD4&extra=null&fp=firefox&sni=www.kinopoisk.ru&pbk=UNTmfdXuKdlBYzHVrD0RvwT-ZfuA_KLKNMwqAWquV3E&sid=295085d98f#🇦🇱 Албания | White List | Fast | | #0002
