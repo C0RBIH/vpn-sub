@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-15 11:06:24
+# Дата и время обновления: 2026-04-15 11:07:51
 
 vless://c77847fe-e7e5-4450-9f10-979827b03c2f@ya2.cyphervpn.pro:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&packetEncoding=xudp#🇩🇪 Германия | White List | Fast | | #0001
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%25252525252525252525252525252525252525252F1.1&allowInsecure=1#🇪🇪 Эстония | White List | Fast | | #0002
