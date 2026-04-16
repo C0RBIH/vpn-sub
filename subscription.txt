@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-16 11:10:27
+# Дата и время обновления: 2026-04-16 11:12:04
 
 vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@it3.lazeroe.com:443?mode=auto&path=%2Fws&security=reality&encryption=none&extra=%7Bxmux%3D%7BmaxConnections%3D1.0%7D%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxEachPostBytes%3D1000000.0%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMinPostsIntervalMs%3D30.0%7D&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&fp=chrome&type=xhttp&sni=it3.lazeroe.com&sid=6f9ae5be33ead6f9#🇮🇹 Италия | White List | Fast | | #0001
 vless://f8b269b8-e1e9-452d-b375-cf1d89913bd1@212.233.98.145:5443?encryption=none&flow=&fp=qq&packetEncoding=xudp&pbk=SJwCg-2RraxdmPp82iqmwV0cY7bpnimExCU02eZck1k&security=reality&sid=1d025360f2d2be56&sni=max.ru&type=tcp#🇵🇱 Польша | White List | Fast | | #0002
