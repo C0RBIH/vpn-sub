@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-16 14:02:11
+# Дата и время обновления: 2026-04-16 14:04:44
 
 vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@ya2177.memeplanet.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&sid=8ac77e6bab737698&sni=ads.x5.ru&spx=/#🇺🇦 Украина | White List | Fast | | #0001
 vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@plbridge.krasivovpn.ru:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&sid=6f9ae5be33ead6f9&sni=life.ru&path=/ws#🇵🇱 Польша | White List | Fast | | #0002
