@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-18 10:49:20
+# Дата и время обновления: 2026-04-18 10:50:37
 
 vless://91bbe282-f2ba-46a6-8752-36ae55279169@yes.normbot.ru:443?type=tcp&security=reality&encryption=none&sni=yes.normbot.ru&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=d869895b2a50728d&flow=xtls-rprx-vision#🇪🇪 Эстония | White List | Fast | | #0001
 vless://91bbe282-f2ba-46a6-8752-36ae55279169@85.192.48.109:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=fin.normbot.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=abc5168218c8749c#🇳🇱 Нидерланды | White List | Fast | | #0002
