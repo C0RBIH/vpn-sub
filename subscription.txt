@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-18 07:18:28
+# Дата и время обновления: 2026-04-18 07:20:03
 
 vless://951c7521-7158-4978-b82c-2736d4f21044@whitemeow.nethcloud.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikihow.com&fp=chrome&security=reality&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&packetEncoding=xudp#🇦🇷 Аргентина | White List | Fast | | #0001
 vless://91bbe282-f2ba-46a6-8752-36ae55279169@185.215.184.61:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yes.normbot.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=d869895b2a50728d#🇪🇪 Эстония | White List | Fast | | #0002
