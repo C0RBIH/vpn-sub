@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-18 13:15:13
+# Дата и время обновления: 2026-04-18 13:18:00
 
 vless://6a876f42-e674-4645-961e-eb72b9c10af4@51.250.119.228:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9yVrUROOKrCuWXaOIIN4aV7cxuS4NOEeSI372W1-VBU&sid=bb&sni=megafon.ru#🇳🇱 Нидерланды | White List | Fast | | #0001
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@185.130.113.39:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7&sni=i.oneme.ru#🇳🇱 Нидерланды | White List | Fast | | #0002
