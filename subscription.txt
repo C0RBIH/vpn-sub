@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-19 16:51:54
+# Дата и время обновления: 2026-04-19 19:00:39
 
 vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=12ff38fb#🇦🇩 Андорра | White List | Fast | | #0001
 vless://01bd3a30-ad45-4ec2-b40d-426a6448504c@83.166.255.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=o_JFuLv0N6nFWnDWF7yoeJhB5hL95Xu_MyX4Fd6DsBA&sid=8273429fe27fbb01&spx=%2F#🇦🇩 Андорра | White List | Fast | | #0002
