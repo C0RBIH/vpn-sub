@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-23 03:27:29
+# Дата и время обновления: 2026-04-23 03:32:37
 
 vless://3b923c48-b9c1-419c-b348-a64791cb4880@185.215.184.123:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=mail.protomorphose.xyz&pbk=pCvicyZI6IkTYiv5auyFJ2O51Aqx4L7RJ6tVS-LSB2U#🇪🇪 Эстония | White List | Fast | | #0001
 vless://669d920d-cb86-4c17-9ec4-5f2838172a13@185.215.184.123:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=pCvicyZI6IkTYiv5auyFJ2O51Aqx4L7RJ6tVS-LSB2U&sni=mail.protomorphose.xyz#🇪🇪 Эстония | White List | Fast | | #0002
