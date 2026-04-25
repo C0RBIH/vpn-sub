@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-25 14:50:34
+# Дата и время обновления: 2026-04-25 14:52:02
 
 vless://5339468e-67dc-43d4-a09f-04d2353113d4@109.69.218.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#🇧🇪 Бельгия | White List | Fast | | #0001
 vless://64970707-0660-4c2f-930b-936a2a40c5c5@109.69.218.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#🇧🇪 Бельгия | White List | Fast | | #0002
