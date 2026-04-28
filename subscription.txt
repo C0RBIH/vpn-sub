@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-28 17:51:55
+# Дата и время обновления: 2026-04-28 17:52:10
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@finl9.keepsecured.net:443?sni=finl9.keepsecured.net&alpn=http/1.1%2Ch2&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇳🇱 Нидерланды | White List | Fast | | #0001
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@178.72.181.125:52006?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#🇳🇱 Нидерланды | White List | Fast | | #0002
