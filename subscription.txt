@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-29 23:01:12
+# Дата и время обновления: 2026-04-29 23:02:04
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@api-staging.dropmefile.net:443?type=grpc&security=tls&encryption=none&sni=api-staging.dropmefile.net&alpn=h2&serviceName=grpc-tunnel#🇳🇱 Нидерланды | White List | Fast | | #0001
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@fileroute.cc:443?type=grpc&security=tls&encryption=none&sni=fileroute.cc&alpn=h2&serviceName=grpc-tunnel#🇳🇱 Нидерланды | White List | Fast | | #0002
