@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-04-29 19:44:44
+# Дата и время обновления: 2026-04-29 19:46:02
 
 vless://f290fff4-fda6-47b4-a438-ad1fbd1b5584@rdeo183kor.tj.cdnfludelivery.com:446?security=reality&encryption=none&authority=api-maps.yandex.ru&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&fp=chrome&type=grpc&serviceName=api-maps.yandex.ru&sni=api-maps.yandex.ru&sid=d7abeb515312dc2f#🇷🇺 Россия | White List | Fast | | #0001
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=api-maps.yandex.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&alpn=http%2F1.1&headerType=none#🇪🇪 Эстония | White List | Fast | | #0002
