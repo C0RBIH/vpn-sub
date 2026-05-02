@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-02 20:51:28
+# Дата и время обновления: 2026-05-02 20:51:59
 
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@51.250.121.107:443?type=grpc&security=reality&fp=chrome&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&sni=goya.rutube.ru&mode=gun#🇩🇪 Германия 1 | [WL]
 vless://c631d469-de07-44ea-afcf-1033616e06f4@ee1.mehab.me:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#🇪🇪 Эстония 1 | [WL]
