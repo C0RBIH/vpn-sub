@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-05 17:42:32
+# Дата и время обновления: 2026-05-05 17:43:49
 
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.33:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&sni=nice.ducks.tel#🇩🇪 Германия 1 | [WL]
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.64:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&sni=nice.ducks.tel#🇩🇪 Германия 2 | [WL]
