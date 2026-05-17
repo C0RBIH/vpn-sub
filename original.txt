@@ -1,19 +1,21 @@
 # profile-title: EaveVPN | 🏳️ Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-05-17 14:17:44
-# Количество: 65
+# Date/Time: 2026-05-17 16:40:51
+# Количество: 69
 # For more info and VPN-configs - visit: https://github.com/Kirillo4ka/eavevpn-configs
 
+vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@217.16.27.155:6444?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=ads.x5.ru&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=%2F#🇦🇪 ОАЭ 1 | [WL]
+vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@217.16.27.32:6444?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=ads.x5.ru&pbk=jUL6sDTmnc7KRWv51yCnqJlfhw61UmNZismNg7-r-jU&sid=b2c3d4e5f6a7b8c9&spx=%2F#🇦🇪 ОАЭ 2 | [WL]
 vless://c06fc4a5-6b80-4009-8317-20d7f916acdb@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&sni=top3529100291.mwscdn.ru#🇦🇪 ОАЭ 3 | [WL]
 vless://c06fc4a5-6b80-4009-8317-20d7f916acdb@46.243.232.186:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc&sni=ads.x5.ru&pbk=OoPqWo20Aq1LsqmZCnGxcvLHun7S1d6F4Bx6PbxpOVE&sid=5FA44664f6a566d3#🇦🇪 ОАЭ 4 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@84.201.170.45:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🇦🇪 ОАЭ 5 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@84.201.170.45:6444?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=qq&sni=ads.x5.ru&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=%2F#🇦🇪 ОАЭ 6 | [WL]
+vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@217.16.27.155:6445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0#🇦🇪 ОАЭ 7 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@84.201.170.45:6445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0#🇦🇪 ОАЭ 8 | [WL]
 vless://31216f81-3139-0021-bac4-646680314264@fr.musicperec.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4c8d1e0f&sni=www.amd.com#🇫🇷 Франция 1 | [WL]
 vless://c06fc4a5-6b80-4009-8317-20d7f916acdb@46.8.209.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&sid=6ba85179e30d4fc2#🇩🇪 Германия 2 | [WL]
 vless://c06fc4a5-6b80-4009-8317-20d7f916acdb@62.152.59.100:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&sid=6ba85179e30d4fc2#🇩🇪 Германия 3 | [WL]
 vless://c06fc4a5-6b80-4009-8317-20d7f916acdb@62.152.59.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=x5.ru&pbk=dIGnZ6HRkh_W5K4i00JOsT_F1Ez96Lm1PjEr0TkJPWo&sid=6ba85179e30d4fc2#🇩🇪 Германия 4 | [WL]
-vless://484413cd-b96e-4a9f-b268-7a1c922f0458@78.159.246.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&sid=f4e2b8971d5c3a9f#🇩🇪 Германия 5 | [WL]
 vless://484413cd-b96e-4a9f-b268-7a1c922f0458@78.159.250.11:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&sid=f4e2b8971d5c3a9f#🇩🇪 Германия 6 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@109.120.189.170:5445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=cSQW3a_64jadi8uInU7XKZzTDyYKBxWj7c5MgIesIws&sid=bad5722c72a0#🇩🇪 Германия 7 | [WL]
 vless://2775f0ca-d07e-4b7f-9153-ece466a6f5ff@158.160.187.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7&spx=#🇩🇪 Германия 8 | [WL]
@@ -31,6 +33,7 @@ vless://fd365b7e-26eb-479a-a009-e182d827de04@46.8.209.200:443?encryption=none&fl
 vless://fd365b7e-26eb-479a-a009-e182d827de04@46.8.209.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&sid=7e2a9d4c5f18b0#🇩🇪 Германия 14 | [WL]
 vless://c5a4adb3-5a17-0001-bd1d-7b8ef815b4e0@5.42.111.154:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru8.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇦🇩 Андорра 1 | [WL]
 vless://4e11ad7d-a372-4f0d-81c5-a03a52cc8291@68.209.56.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn.trahodrom.fun&fp=chrome&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&flow=xtls-rprx-vision#🇳🇱 Нидерланды 1 | [WL]
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.163.19:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=CEdNI4wyGBJwgga3R91C4uQlF3Pack_KZWBLN_d8xWU&fp=chrome&sni=google.com&sid=983a#🇳🇱 Нидерланды 2 | [WL]
 vless://ec554934-3bf2-47af-9e11-390055948677@37.9.4.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-2-1.legendary.ac&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91#🇳🇱 Нидерланды 3 | [WL]
 vless://5f5114c6-ad1f-4e4a-baad-aacb4634f275@158.160.215.56:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=su8tIyeRdTZZHPvZn1AjBZPCv0_FsI7msHP_s8x4Oj0&sid=c3be66103c6cba50#🇳🇱 Нидерланды 5 | [WL]
 vless://5f5114c6-ad1f-4e4a-baad-aacb4634f275@158.160.215.56:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=r_aARuLLU1bq_FjzsLi8d2cP9e2ran6e2_fOTPtpjT8&sid=a5baba950dccc3df&spx=/#🇳🇱 Нидерланды 6 | [WL]
@@ -64,6 +67,7 @@ vless://7189ddca-48fb-0578-8f7a-ae89ae3b0544@158.160.231.77:443?flow=xtls-rprx-v
 vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#🇧🇦 Босния 2 | [WL]
 vless://c11a0d12-8923-4a89-9837-5772fdf67059@5.42.108.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇧🇦 Босния 3 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@62.152.56.8:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=JCnvoBX8E2brxjn8OB1XUnTJ0jCvLgLbkyErIIjZYnA&sid=a1b2c3d4e5f6a7b8#🇧🇦 Босния 5 | [WL]
+vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@194.87.161.198:443?security=reality&encryption=none&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&headerType=none&fp=randomized&spx=%2Fad%2F8611949&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇧🇦 Босния 6 | [WL]
 vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇧🇦 Босния 7 | [WL]
 vless://484413cd-b96e-4a9f-b268-7a1c922f0458@81.94.148.168:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=x5.ru&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&sid=f4e2b8971d5c3a9f#🇧🇦 Босния 8 | [WL]
 vless://4fb2d7fd-7fe1-45d7-b085-38b67f1c0556@5.188.140.245:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038#🇺🇸 США 1 | [WL]
