@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-17 13:44:19
+# Дата и время обновления: 2026-05-17 13:47:26
 
 vless://33712d6a-cb22-43a3-91ab-3bf39757e0f1@api.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.xwhiteness.site&fp=chrome&pbk=O_9ei7ZOt11ZZGqQdW6AO2N06ikHfoRKSxW9aR5rLRo&flow=xtls-rprx-vision#🇦🇷 Аргентина 1 | [WL]
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#🇦🇪 ОАЭ 1 | [WL]
