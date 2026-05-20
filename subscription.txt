@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-20 20:24:50
+# Дата и время обновления: 2026-05-20 20:26:33
 
 vless://ff896529-d2b3-443c-a4f8-3d038118abad@217.16.20.38:443?encryption=none&type=xhttp&security=reality&mode=stream-one&extra=null&fp=ios&sni=sun6-21.userapi.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&spx=%2F#🇨🇿 Чехия 1 | [WL]
 vless://ff896529-d2b3-443c-a4f8-3d038118abad@217.16.20.38:443?encryption=none&type=xhttp&security=reality&mode=stream-one&extra=null&fp=ios&sni=sun6-21.userapi.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&spx=%2F#🇨🇿 Чехия 2 | [WL]
