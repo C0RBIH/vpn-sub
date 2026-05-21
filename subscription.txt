@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-21 16:41:14
+# Дата и время обновления: 2026-05-21 16:41:26
 
 vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@tj.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=qq&security=reality&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&sid=#🇧🇪 Бельгия 1 | [WL]
 vless://bad0796a-fb77-4119-b284-5b18e74325d7@176.122.25.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=95bf544ac3cb0c&spx=%2F#🇧🇾 Беларусь 1 | [WL]
