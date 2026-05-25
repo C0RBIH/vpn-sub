@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-25 17:49:11
+# Дата и время обновления: 2026-05-25 19:49:34
 
 vless://48a207c3-bcb2-4b1b-951f-96c2bcdd4bf8@193.33.133.173:6443?fp=chrome&mode=auto&path=/&pbk=D2kzckt9XehLBbd045B1MyOkWh_k5jtEO9hb6yBWfRY&security=reality&sid=25b19ab8cfd78fe5&sni=ads.x5.ru&type=xhttp#🇩🇪 Германия 1 | [WL]
 vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@45.12.132.183:80?security=none&type=ws&path=%2Fvless%2F#🇧🇦 Босния 1 | [WL]
@@ -21,6 +21,7 @@ vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?type=tcp&h
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?security=none&type=tcp#🇧🇦 Босния 7 | [WL]
 vless://e2cb3a78-a47c-41bd-bad9-189a797c8967@ru.rush-server.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=findmypackets.com&fp=qq&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&flow=xtls-rprx-vision#🇧🇦 Босния 8 | [WL]
 vless://791f388e-4b6c-4ace-a7da-648f1057a883@188.225.76.23:443?fp=chrome&pbk=wmMvp_Y8U-o61VgJS1lyNBhFzPnrESvy0uWm_yk1WTM&security=reality&sid=b99f&sni=yahoo.com&spx=%2F&type=tcp#🇧🇦 Босния 9 | [WL]
+vless://e147eed6-5c5d-42f5-8106-b1cd575889d3@84.201.130.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb#🇧🇦 Босния 10 | [WL]
 vless://e147eed6-5c5d-42f5-8106-b1cd575889d3@84.201.139.67:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb#🇧🇦 Босния 11 | [WL]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.42:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&serviceName=&quicSecurity=none#🇺🇸 США 1 | [WL]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.41:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%40ChinaPortGFW#🇧🇦 Босния 12 | [WL]
@@ -69,6 +70,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.191:2096?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 США 12 | [WL]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.191:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 США 13 | [WL]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.191:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇺🇸 США 14 | [WL]
+vless://d04b33c6-9883-4799-b8c3-c4a7b0554621@80.66.89.59:50587?flow=xtls-rprx-vision&fp=qq&pbk=0nBpyUY0ZVP_QC_kZXlwgDzW7xVprFDtjn9QYSftKQk&security=reality&sid=2944875cfddf584e&sni=kinopoisk.ru&type=tcp#🇦🇩 Андорра 1 | [WL]
 vless://aa1dfc3b-c91b-462f-a888-292ed5250b1f@158.160.51.70:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇺🇸 США 15 | [WL]
 vless://aa1dfc3b-c91b-462f-a888-292ed5250b1f@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇺🇸 США 16 | [WL]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.211:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram @WangCai2&security=tls&sni=sni.111000.v6.navy#🇧🇦 Босния 44 | [WL]
