@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-29 04:12:52
+# Дата и время обновления: 2026-05-29 04:19:03
 
 vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=%2F&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&alpn=h2%2Chttp%2F1.1#🇮🇳 Индия 1 | [WL]
 vless://56470441-5d85-4266-89f3-c2b5b000c522@ftatx5g6dt.cdn.twcstorage.ru:443?type=xhttp&security=tls&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&mode=packet-up#🇮🇳 Индия 2 | [WL]
