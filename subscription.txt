@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-05-30 23:04:24
+# Дата и время обновления: 2026-05-30 23:05:37
 
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=&sid=0f4dacf62211e75f#🇧🇪 Бельгия 1 | [WL]
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=0f4dacf62211e75f#🇧🇪 Бельгия 2 | [WL]
