@@ -1,14 +1,13 @@
 # profile-title: EaveVPN | 🏳️ Белый список
 # profile-update-interval: 1
-# Date/Time: 2026-05-30 22:43:03
-# Количество: 69
+# Date/Time: 2026-05-31 01:56:59
+# Количество: 68
 # For more info and VPN-configs - visit: https://github.com/Kirillo4ka/eavevpn-configs
 
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=&sid=0f4dacf62211e75f#🇧🇪 Бельгия 1 | [WL]
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=&sid=0f4dacf62211e75f#🇧🇪 Бельгия 2 | [WL]
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&sid=0f4dacf62211e75f&sni=by.api-yandex.net#🇧🇪 Бельгия 3 | [WL]
 vless://f9a43aa2-0599-4f16-b40c-b47952ffc78a@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=71f0b07a98c840c7#🇨🇿 Чехия 1 | [WL]
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@ru3.vitok.cc:443?type=tcp&security=reality&fp=chrome&pbk=S4lyhlmpZbB8qSe-zKcWeSOPTjpkgE8q-oQ5H2q1X00&sid=5e841fab&sni=dzen.ru#🇦🇪 ОАЭ 1 | [WL]
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help#🇫🇷 Франция 1 | [WL]
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help&alpn=h2,http/1.1#🇫🇷 Франция 2 | [WL]
 vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#🇩🇪 Германия 1 | [WL]
