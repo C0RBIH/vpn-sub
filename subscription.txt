@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-01 11:47:18
+# Дата и время обновления: 2026-06-01 11:49:41
 
 vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn02.hirbilon.net:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=3LyOfYxF1pSJQDM1rhIm6xbiSC897TzOWw79vXpUPGI&security=reality&sid=05f6a5418c2a6865&sni=mn02.hirbilon.net&type=tcp#🇨🇦 Канада 1 | [WL]
 vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn4.hirbilon.net:443?encryption=none&security=reality&sni=mn4.hirbilon.net&fp=chrome&pbk=VCJLvaU9F7jgSocvwTvrcJVk0RKA60jlAIUAT7CxE1I&sid=71e87186710e710e&type=grpc&authority=&serviceName=dropbox.com&mode=gun#🇨🇦 Канада 2 | [WL]
