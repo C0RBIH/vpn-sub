@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-04 10:04:52
+# Дата и время обновления: 2026-06-04 10:07:24
 
 vless://argoovpn@argovpn.imanaghapour.ir:19326?encryption=none&fp=chrome&pbk=z9FqCc1BwCVF0PRFlaW3JrADk2ImO9a4QmbDeYk4qx0&security=reality&sid=4cf9831d1922&sni=www.samsung.com&spx=/dz1wtigT6WmYfHq&type=tcp#🇫🇷 Франция 1 | [WL]
 vless://dc1c0c97-4518-470e-aa39-ab7678948086@91.193.58.79:2086?encryption=none&host=xvh.andishehparenting.com&path=/&security=none&type=xhttp&mode=packet-up#🇩🇪 Германия 1 | [WL]
