@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-04 15:29:18
+# Дата и время обновления: 2026-06-04 15:32:43
 
 vless://%40JynMarket@63.141.128.25:443?mode=packet-up&path=%2FJynMarket&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=nw.pedramdns.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=nw.pedramdns.shop#🇦🇪 ОАЭ 1 | [WL]
 vless://7d876627-abf5-4865-8ff4-03f37d49de5d@db.herumhas.shop:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=db.herumhas.shop&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇦🇪 ОАЭ 2 | [WL]
