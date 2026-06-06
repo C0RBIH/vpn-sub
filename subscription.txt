@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-06 17:19:59
+# Дата и время обновления: 2026-06-06 17:20:46
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇦🇪 ОАЭ 1 | [WL]
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#🇦🇪 ОАЭ 2 | [WL]
