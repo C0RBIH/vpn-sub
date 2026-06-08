@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-08 23:15:40
+# Дата и время обновления: 2026-06-08 23:16:30
 
 vless://1aa968f5-c42f-4573-ac80-beb266933ea6@46.8.209.122:443?mode=gun&security=reality&encryption=none&authority=&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=alpha4.minigames.mail.ru&sid=9078b8e380e60ac8#🇩🇪 Германия 1 | [WL]
 vless://1aa968f5-c42f-4573-ac80-beb266933ea6@46.8.209.122:443?mode=gun&security=reality&encryption=none&pbk=7oymTopNbHUmyJSSmJDVgb7E0usD7nhzaV35tKBHWgg&fp=chrome&allowinsecure=0&type=grpc&sni=alpha4.minigames.mail.ru&sid=9078b8e380e60ac8#🇩🇪 Германия 2 | [WL]
