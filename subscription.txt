@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-09 09:55:45
+# Дата и время обновления: 2026-06-09 09:57:29
 
 vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@de.riotvpn.eu:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#🇩🇪 Германия 1 | [WL]
 vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@de.riotvpn.eu:80?type=xhttp&security=tls&path=/&sni=obhod.riotvpn.eu&fp=chrome#🇩🇪 Германия 2 | [WL]
