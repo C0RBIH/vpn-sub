@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-13 17:37:36
+# Дата и время обновления: 2026-06-13 17:38:50
 
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.200.28.244:8443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=firefox&sni=www.google.com&sid=0e#🇨🇿 Чехия 1 | [WL]
 vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#🇩🇪 Германия 1 | [WL]
