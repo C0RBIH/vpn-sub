@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-14 21:19:33
+# Дата и время обновления: 2026-06-14 21:20:58
 
 vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@185.141.227.244:2053?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ee-t.vinnypuxtomoon.today&type=tcp#🇫🇷 Франция 1 | [WL]
 vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@94.156.155.234:443?security=reality&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&type=tcp&fp=firefox&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&sid=1eb16f60#🇩🇪 Германия 1 | [WL]
