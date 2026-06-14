@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-14 15:50:23
+# Дата и время обновления: 2026-06-14 15:51:18
 
 vless://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=fl.maybe-later.co.uk&mode=auto&path=/forall&security=tls&sni=fl.maybe-later.co.uk&type=xhttp&x_padding_bytes=100-1000#🇦🇪 ОАЭ 1 | [WL]
 vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#🇩🇪 Германия 1 | [WL]
