@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-16 21:10:08
+# Дата и время обновления: 2026-06-16 21:12:06
 
 vless://b4e7884c-d2fa-4d17-b95a-e2fab387937a@de555.sonicsonic.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=de555.sonicsonic.icu&spx=/#🇩🇪 Германия 2 | [WL]
 vless://d514f0df-83c5-4690-8a14-398782469654@212.183.88.16:443?encryption=none&type=xhttp&path=%2F&mode=stream-up&security=tls&sni=de-1.orgtgju.org&fp=chrome&alpn=h2%2Chttp%2F1.1#🇩🇪 Германия 3 | [WL]
