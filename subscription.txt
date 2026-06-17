@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-06-17 18:26:02
+# Дата и время обновления: 2026-06-17 18:26:28
 
 vless://0afe8434-7b68-48a3-a96f-509f7af15e5e@auto-2.barryvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&sid=0123456789abcdef&sni=ru-streaming.barryvpn.com#🇩🇪 Германия 1 | [WL]
 vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.233:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#🇧🇦 Босния 1 | [WL]
