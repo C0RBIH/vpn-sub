@@ -1,7 +1,7 @@
 # 🪖MSC VPN🗽
 # profile-title: 🪖MSC VPN🗽
 # profile-update-interval: 2
-# Дата и время обновления: 2026-08-05 14:21:19
+# Дата и время обновления: 2026-08-05 14:24:20
 
 vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@158.160.54.243:48313?type=xhttp&security=reality&pbk=E-SCapk16uia3_5Z2Ijkb9S9Rvjj-hYLwKv8dAoWX3E&sni=passport.yandex.ru&mode=packet-up&fp=ios#🇧🇪 Бельгия 1 | [WL]
 vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@158.160.54.243:48313?type=xhttp&security=reality&pbk=E-SCapk16uia3_5Z2Ijkb9S9Rvjj-hYLwKv8dAoWX3E&sni=passport.yandex.ru&mode=packet-up&fp=qq#🇧🇪 Бельгия 2 | [WL]
